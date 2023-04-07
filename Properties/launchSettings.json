@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChainOfResponsabilityImplementation": {
+      "commandName": "Project",
+      "commandLineArgs": "--environment Production"
+    }
+  }
+}
